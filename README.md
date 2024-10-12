@@ -28,10 +28,6 @@ This task involves creating an animated **Racing Bar Plot** to visualize the yea
 - **Library Used**: `plotly.express` 
 - **Visualization**: Animated racing bar plot displaying the count of EVs by make for each year.
 
-### Task 4: LinkedIn Post
-
-A LinkedIn post was created to share the experience and findings of the project, tagging [Innomatics Research Labs](https://www.innomatics.in/).
-
 ## Tools and Libraries Used
 - **Python**: Data cleaning and analysis.
 - **Pandas**: Data manipulation and preparation.
